@@ -9,7 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   collection: ^1.18.0
-  http: ^1.1.0
+  http: ^0.13.5
   stack_trace: ^1.11.1
 
 dev_dependencies:
